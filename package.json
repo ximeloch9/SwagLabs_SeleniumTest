@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.32.0"
+  },
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.12.6",
+    "allure-commandline": "^2.34.0"
+  }
+}
